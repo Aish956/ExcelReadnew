@@ -15,7 +15,7 @@ public class ExcelRead {
 
 	public static String readStringData(int i,int j) throws IOException {
 
-	f= new FileInputStream("Student.xlsx");
+	f= new FileInputStream("C:\\Users\\Aiswarya Rajendran\\eclipse-workspace\\Excelread\\src\\main\\resources\\Student.xlsx");
 
 
 
